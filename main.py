@@ -12,5 +12,5 @@ while True:
         if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
-    # dsadfs dgad g
+    # dsadfs dgad
     pygame.display.update()
