@@ -12,5 +12,5 @@ while True:
         if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
-    
+    #אמא של גלעד
     pygame.display.update()
